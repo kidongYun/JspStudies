@@ -1,0 +1,23 @@
+#Tomcat publish data
+#Wed Aug 21 19:58:12 KST 2019
+org.eclipse.jst.jee.server\:exceptionPageUsingWebXml=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\exceptionPageUsingWebXml
+org.eclipse.jst.jee.server\:javaBean=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\javaBean
+org.eclipse.jst.jee.server\:connectionPool=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\connectionPool
+org.eclipse.jst.jee.server\:jdbcConnectionToOracle=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\jdbcConnectionToOracle
+org.eclipse.jst.jee.server\:cookie=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\cookie
+org.eclipse.jst.jee.server\:initializeParameterInServlet=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\initializeParameterInServlet
+org.eclipse.jst.jee.server\:doGetExample=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\doGetExample
+org.eclipse.jst.jee.server\:jspActionTag=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\jspActionTag
+org.eclipse.jst.jee.server\:JspStandardTagLibrary=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\JspStandardTagLibrary
+org.eclipse.jst.jee.server\:preparedStatement=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\preparedStatement
+org.eclipse.jst.jee.server\:ex15=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\ex15
+org.eclipse.jst.jee.server\:fileUpload=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\fileUpload
+org.eclipse.jst.jee.server\:session=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\session
+org.eclipse.jst.jee.server\:requestAndResponseParameterOnJspAndServlet=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\requestAndResponseParameterOnJspAndServlet
+org.eclipse.jst.jee.server\:exceptionPageUsingPageIndicator=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\exceptionPageUsingPageIndicator
+org.eclipse.jst.jee.server\:expressionLanguage=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\expressionLanguage
+org.eclipse.jst.jee.server\:joinLoginModifyForMember=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\joinLoginModifyForMember
+org.eclipse.jst.jee.server\:dataAccessObjectDataTranferObject=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\dataAccessObjectDataTranferObject
+org.eclipse.jst.jee.server\:frontControllerPattern=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\frontControllerPattern
+org.eclipse.jst.jee.server\:jspBasicGrammer=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\jspBasicGrammer
+org.eclipse.jst.jee.server\:boardUsingMvcPattern=C\:\\Users\\Yun\\Dropbox\\Yun_Kidong\\2019\\Workspace\\Engineering\\Jsp\\apache-tomcat-7.0.96\\wtpwebapps\\boardUsingMvcPattern

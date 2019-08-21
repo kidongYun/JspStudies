@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<%!
+		int age;
+	%>
+	
+	<%
+		String str = request.getParameter("age");
+		age = Integer.parseInt(str);
+	%>
+	
+	You are not an adult, so You can't buy an alcoholic beverage
+	
+	<a href="requestex.html">Go to frist page.</a>
+</body>
+</html>

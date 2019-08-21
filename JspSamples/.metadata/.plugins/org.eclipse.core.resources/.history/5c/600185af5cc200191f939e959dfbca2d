@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="jdbcConnectionToOracle">
+        <property name="context-root" value="jdbcConnectionToOracle"/>
+        <property name="java-output-path" value="/jdbcConnectionToOracle/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javalec.ex.JoinOK&apos; to &apos;JoinOk&apos;&#x0D;&#x0A;- Original project: &apos;joinLoginModifyForMember&apos;&#x0D;&#x0A;- Original element: &apos;com.javalec.ex.JoinOK&apos;&#x0D;&#x0A;- Renamed element: &apos;com.javalec.ex.JoinOk&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JoinOK&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javalec.ex{JoinOK.java[JoinOK" matchStrategy="1" name="JoinOk" qualified="false" references="true" similarDeclarations="false" stamp="1566217400291" textual="false" version="1.0"/>
+</session>

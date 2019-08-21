@@ -1,0 +1,41 @@
+<%@page import="java.sql.Statement"%>
+<%@page import="java.sql.DriverManager"%>
+<%@page import="java.sql.ResultSet"%>
+<%@page import="java.sql.Connection"%>
+
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+    
+    <%!
+    	Connection connection;
+    	Statement statement;
+    	ResultSet resultSet;
+    	
+    	String driver = "oracle.jdbc.driver.OracleDriver";
+    	String url = "jdbc:oracle:thin:@localhost:1521:xe";
+    	String uid = "c##scott";
+    	String upw = "tiger";
+    %>
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<%
+		try {
+			Class.forName(driver);
+			connection = DriverManager.getConnection(url, uid, upw);
+			statement = connection.createStatement();
+			resultSet = statement.executeQuery(query);
+			
+			while(resultSet.next()) {
+				
+			}
+		}
+	%>
+</body>
+</html>

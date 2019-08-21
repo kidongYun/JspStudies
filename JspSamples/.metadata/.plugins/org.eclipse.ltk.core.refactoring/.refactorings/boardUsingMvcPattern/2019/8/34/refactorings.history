@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javalec.ex.command.BReplyNewCommand&apos; to &apos;BReplyViewCommand&apos;&#x0D;&#x0A;- Original project: &apos;boardUsingMvcPattern&apos;&#x0D;&#x0A;- Original element: &apos;com.javalec.ex.command.BReplyNewCommand&apos;&#x0D;&#x0A;- Renamed element: &apos;com.javalec.ex.command.BReplyViewCommand&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BReplyNewCommand&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javalec.ex.command{BReplyNewCommand.java[BReplyNewCommand" matchStrategy="1" name="BReplyViewCommand" qualified="false" references="true" similarDeclarations="false" stamp="1566384063245" textual="false" version="1.0"/>
+</session>
